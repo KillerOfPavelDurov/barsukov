@@ -11,7 +11,7 @@ if ( $(window).width() < 1242) {
 	    $(".header").css({"font-size":"80px","padding":"10px"});
 		
 		
-		$(".lefttopblock").css({"background-color":"rgb(0,0,0,0.5)","color":"white"});
-		$(".righttopblock").css({"background-color":"rgb(0,0,0,0.5)","color":"white"});
+		$(".lefttopblock").css({"background-color":"rgb(0,0,0,0.5)","color":"white","border":"2px solid white"});
+		$(".righttopblock").css({"background-color":"rgb(0,0,0,0.5)","color":"white","border":"2px solid white"});
 }
 }, 10);
