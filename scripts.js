@@ -3,6 +3,7 @@
 intervalId = window.setInterval(function () { 
 if ( $(window).width() < 1242) {
 	$("#pleft").removeAttr("id");
+	$("#pright").attr("id","pright2");
 		$("#pright").removeAttr("id");
 		$("#leftbotp").removeAttr("id");
 		$("#bigtroubl").removeAttr("id");
