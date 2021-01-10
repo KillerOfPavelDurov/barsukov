@@ -134,13 +134,12 @@ body {
 	border:2px solid black;
 	border-right:none;
 	border-radius: 100px 0 0 100px;
-	padding:3px;
+	padding:10px;
 	font-family: 'Poiret One', cursive;
 	
 }
 
 #pright {
-	margin-bottom:-10px;
 	animation-name:moveleft;
 	animation-duration:1.5s;
 	animation-fill-mode:forwards;
@@ -356,7 +355,9 @@ body {
 	font-size:40px;
 }
 
-
+	#pright2 {
+	margin-bottom:-5px;
+	}
 	
 	
 	
