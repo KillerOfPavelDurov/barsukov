@@ -140,7 +140,7 @@ body {
 }
 
 #pright {
-	margin-top:5px;
+	margin-bottom:-5px;
 	animation-name:moveleft;
 	animation-duration:1.5s;
 	animation-fill-mode:forwards;
